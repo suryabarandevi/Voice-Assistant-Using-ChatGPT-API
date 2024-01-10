@@ -1,4 +1,4 @@
-# allen
+# Voice Assistant Using ChatGPT API
 
 A new Flutter project.
 
