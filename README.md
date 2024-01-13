@@ -38,6 +38,7 @@ To run the Flutter Voice Assistant locally, follow these steps:
 
 
 ## Application Demo
+<img src="[https://example.com/image.jpg](https://github.com/suryabarandevi/Voice-Assistant-Using-ChatGPT-API/assets/113005690/38554174-ea37-4239-a647-78fb2dace9c6)" alt="Image Alt Text" width="400" height="200">
 ![WhatsApp Image 2023-11-20 at 2 01 11 PM](https://github.com/suryabarandevi/Voice-Assistant-Using-ChatGPT-API/assets/113005690/38554174-ea37-4239-a647-78fb2dace9c6)
 
 ![WhatsApp Image 2023-11-20 at 2 02 09 PM](https://github.com/suryabarandevi/Voice-Assistant-Using-ChatGPT-API/assets/113005690/0636a9f6-e560-4254-bc13-b3a0e6cf2b19)
