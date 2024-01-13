@@ -36,3 +36,7 @@ To run the Flutter Voice Assistant locally, follow these steps:
 4. Replace the OpenAI secret key in secrets.dart file.
 5. Run the application: `flutter run`
 
+
+## Application Demo
+
+![Flutter Voice Assistant](Screenshots/WhatsApp Image 2023-11-20 at 2.01.11 PM.jpeg)
