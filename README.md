@@ -30,7 +30,7 @@ This project, developed in August 2023, introduces a Flutter-based voice assista
 
 To run the Flutter Voice Assistant locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/flutter-voice-assistant.git`
+1. Clone the repository: `git clone https://github.com/suryabarandevi/flutter-voice-assistant.git`
 2. Navigate to the project directory: `cd flutter-voice-assistant`
 3. Install dependencies: `flutter pub get`
 4. Replace the OpenAI secret key in secrets.dart file.
